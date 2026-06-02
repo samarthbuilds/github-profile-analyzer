@@ -27,17 +27,18 @@ A JavaScript application that fetches and analyzes GitHub user profile data usin
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
+```bash
 github-profile-analyzer/
-│
 ├── src/
 │   ├── api.js
 │   ├── display.js
 │   └── index.js
-│
 ├── README.md
 ├── package.json
 └── .gitignore
----
+```
 
 ## 📌 How It Works
 
