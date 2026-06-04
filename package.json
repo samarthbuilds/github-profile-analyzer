@@ -1,0 +1,18 @@
+{
+  "name": "github-profile-analyzer",
+  "version": "1.0.0",
+  "description": "A Node.js application that fetches and analyzes GitHub user profiles using the GitHub API.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "github",
+    "api",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Samarth Singh",
+  "license": "MIT"
+}
